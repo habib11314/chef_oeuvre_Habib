@@ -5,6 +5,7 @@
 ![HTML](https://img.shields.io/badge/HTML-7.6%25-orange)
 
 > **Un jeu de combat 2D développé avec Python et Pygame, mettant en scène Naruto et Sasuke dans un affrontement épique.**
+<img width="1206" height="617" alt="image" src="https://github.com/user-attachments/assets/a497bd03-da6e-47d4-ae76-d4f5d3d4d7bb" />
 
 ---
 
